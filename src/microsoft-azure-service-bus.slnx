@@ -1,5 +1,7 @@
 <Solution>
-  <Folder Name="/Complete/" />
+  <Folder Name="/Complete/">
+    <Project Path="Complete/ServiceBusCompleteReceiver/ServiceBusCompleteReceiver.csproj" Id="7a1d40ae-ef85-4f5b-a7ae-e8f33e82560e" />
+  </Folder>
   <Folder Name="/Object/">
     <Project Path="Object/ServiceBusObjectReceiver/ServiceBusObjectReceiver.csproj" />
     <Project Path="Object/ServiceBusObjectSender/ServiceBusObjectSender.csproj" />

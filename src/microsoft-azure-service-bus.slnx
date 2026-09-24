@@ -5,6 +5,9 @@
   <Folder Name="/Complete/">
     <Project Path="Complete/ServiceBusCompleteReceiver/ServiceBusCompleteReceiver.csproj" Id="7a1d40ae-ef85-4f5b-a7ae-e8f33e82560e" />
   </Folder>
+  <Folder Name="/Deferral/">
+    <Project Path="Deferral/ServiceBusDeferralReceiver/ServiceBusDeferralReceiver.csproj" Id="f0ac3b81-7992-4537-9081-34417c80f264" />
+  </Folder>
   <Folder Name="/Object/">
     <Project Path="Object/ServiceBusObjectReceiver/ServiceBusObjectReceiver.csproj" />
     <Project Path="Object/ServiceBusObjectSender/ServiceBusObjectSender.csproj" />

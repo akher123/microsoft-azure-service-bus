@@ -1,4 +1,7 @@
 <Solution>
+  <Folder Name="/Abandon/">
+    <Project Path="Abandon/ServiceBusAbandonReceiver/ServiceBusAbandonReceiver.csproj" Id="29ba8679-7783-4044-89e5-0225a6b0b26a" />
+  </Folder>
   <Folder Name="/Complete/">
     <Project Path="Complete/ServiceBusCompleteReceiver/ServiceBusCompleteReceiver.csproj" Id="7a1d40ae-ef85-4f5b-a7ae-e8f33e82560e" />
   </Folder>

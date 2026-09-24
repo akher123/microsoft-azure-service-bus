@@ -15,6 +15,9 @@
     <Project Path="Object/ServiceBusObjectReceiver/ServiceBusObjectReceiver.csproj" />
     <Project Path="Object/ServiceBusObjectSender/ServiceBusObjectSender.csproj" />
   </Folder>
+  <Folder Name="/ReceiveAndDelete/">
+    <Project Path="ReceiveAndDelete/ServiceBusReceiveAndDeleteReceiver/ServiceBusReceiveAndDeleteReceiver.csproj" Id="6f8d86ce-fe59-4a41-9c14-9c2a1e7b3018" />
+  </Folder>
   <Folder Name="/String/">
     <Project Path="String/ServiceBusReceiver/ServiceBusReceiver.csproj" />
     <Project Path="String/ServiceBusSender/ServiceBusSender.csproj" />

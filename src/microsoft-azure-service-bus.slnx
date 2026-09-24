@@ -1,6 +1,10 @@
 <Solution>
-  <Project Path="ServiceBusObjectReceiver/ServiceBusObjectReceiver.csproj" Id="848a330b-e4f8-49d7-af4e-0359bc72245d" />
-  <Project Path="ServiceBusObjectSender/ServiceBusObjectSender.csproj" Id="e3b3b3ec-513b-4ce2-886f-96889cd7e634" />
-  <Project Path="ServiceBusReceiver/ServiceBusReceiver.csproj" Id="70d5619b-e5a2-4787-82d0-730086d6e17c" />
-  <Project Path="ServiceBusSender/ServiceBusSender.csproj" Id="ea35574a-e67c-410d-b205-bbfd8af76d09" />
+  <Folder Name="/Object/">
+    <Project Path="ServiceBusObjectReceiver/ServiceBusObjectReceiver.csproj" Id="848a330b-e4f8-49d7-af4e-0359bc72245d" />
+    <Project Path="ServiceBusObjectSender/ServiceBusObjectSender.csproj" Id="e3b3b3ec-513b-4ce2-886f-96889cd7e634" />
+  </Folder>
+  <Folder Name="/String/">
+    <Project Path="ServiceBusReceiver/ServiceBusReceiver.csproj" Id="70d5619b-e5a2-4787-82d0-730086d6e17c" />
+    <Project Path="ServiceBusSender/ServiceBusSender.csproj" Id="ea35574a-e67c-410d-b205-bbfd8af76d09" />
+  </Folder>
 </Solution>

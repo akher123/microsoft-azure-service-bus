@@ -28,4 +28,7 @@
     <Project Path="String/ServiceBusReceiver/ServiceBusReceiver.csproj" />
     <Project Path="String/ServiceBusSender/ServiceBusSender.csproj" />
   </Folder>
+  <Folder Name="/Topic/">
+    <Project Path="Topic/ServiceBusTopicSubscriptionReceiver/ServiceBusTopicSubscriptionReceiver.csproj" Id="ce0d9154-e690-4826-b460-a57f1aea05ba" />
+  </Folder>
 </Solution>

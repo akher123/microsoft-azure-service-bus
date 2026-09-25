@@ -5,6 +5,9 @@
   <Folder Name="/Complete/">
     <Project Path="Complete/ServiceBusCompleteReceiver/ServiceBusCompleteReceiver.csproj" Id="7a1d40ae-ef85-4f5b-a7ae-e8f33e82560e" />
   </Folder>
+  <Folder Name="/CrossEntityTransaction/">
+    <Project Path="CrossEntityTransaction/ServiceBusTransaction/ServiceBusTransaction.csproj" Id="82ae0561-89a7-4598-9a8f-c7961bfda917" />
+  </Folder>
   <Folder Name="/DeadLetter/">
     <Project Path="DeadLetter/ServiceBusDeadLetterMessage/ServiceBusDeadLetterMessage.csproj" Id="6a702720-8035-41f1-9802-d88952a98f94" />
   </Folder>
